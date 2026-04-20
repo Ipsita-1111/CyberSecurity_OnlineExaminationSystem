@@ -1,1 +1,2 @@
 # CyberSecurity_OnlineExaminationSystem
+A cybersecurity project implementing STRIDE-based threat modeling on a secure online examination system built with Flask, SQLAlchemy, and bcrypt. Covers systematic threat identification across all 6 STRIDE categories, 14 security controls (password hashing, MFA, CSRF protection, RBAC, rate limiting, audit logging, and more), and live attack simulations including brute force, SQL injection, and privilege escalation — all defended and logged in real time.
